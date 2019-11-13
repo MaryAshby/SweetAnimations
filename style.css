@@ -1,0 +1,16 @@
+body
+{
+width: 800px;
+font-family: "Arial";
+font-size: 14px;
+color: #122620;
+background-color: #D6AD60;
+padding-left: 70px;
+}
+
+h1
+{
+padding-left: 50px;
+border-bottom: 5px solid #122620;
+}
+
